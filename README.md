@@ -23,3 +23,4 @@ make update
 - [ ] integrate spectrum web component
 - [ ] integrate vee-validate
 - [x] integrate i18n
+- [ ] integrate real workspace
