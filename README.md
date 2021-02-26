@@ -19,7 +19,7 @@ make update
 
 - [x] single spa with vue cli
 - [ ] external vue & vue-router
-- [ ] integrate tailwind
+- [x] integrate tailwind
 - [ ] integrate spectrum web component
 - [ ] integrate vee-validate
-- [ ] integrate i18n
+- [x] integrate i18n
