@@ -43,11 +43,11 @@ make update
 
 ## StyleGuide (css)
 
-- tailwwindcss
+- tailwindcss
 - optimize sizing
 - config or convention ???
 
-## StyleGuide
+## StyleGuide Check List
 - [ ] init project
 - [ ] add tailwind
 - [ ] optimize things
