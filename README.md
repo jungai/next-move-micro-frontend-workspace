@@ -8,7 +8,7 @@ git clone --recursive https://github.com/jungai/next-move-micro-frontend-workspa
 make update
 ```
 
-## Tools
+## Main Vue Tools
 
 - single-spa
 - vue 3 (vue-cli)
