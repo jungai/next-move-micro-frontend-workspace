@@ -1,0 +1,8 @@
+[submodule "micro-web-base"]
+	path = micro-web-base
+	url = git@github.com:jungai/micro-web-base.git
+	branch = master
+[submodule "micro-vue3"]
+	path = micro-vue3
+	url = git@github.com:jungai/micro-vue3.git
+	branch = master
