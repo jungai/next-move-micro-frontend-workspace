@@ -6,3 +6,7 @@
 	path = micro-vue3
 	url = git@github.com:jungai/micro-vue3.git
 	branch = master
+[submodule "micro-react"]
+	path = micro-react
+	url = git@github.com:jungai/micro-react.git
+	branch = master
