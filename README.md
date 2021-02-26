@@ -2,7 +2,7 @@
 
 ## Tools
 - single-spa
-- vite with (vue3)
-- fast ui (web component)
+- vue 3 (vue-cli)
+- spectrum web component
 - system-js
 - vue eco lib(e.g. vue-router, vueUse, vee-validate)
