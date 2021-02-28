@@ -22,8 +22,9 @@ make update
 - [ ] external vue & vue-router
 - [x] integrate tailwind
 - [ ] integrate spectrum web component
-- [ ] integrate vee-validate
+- [x] integrate vee-validate
 - [x] integrate i18n
+- [ ] integrate vue-meta
 - [ ] integrate real workspace
 
 ## Alternative (React)
@@ -36,10 +37,13 @@ make update
 ## React Check List
 
 - [x] single spa wwith react (single spa boilerplate)
-- [ ] external deps e.g. react, react-dom, react .....
+- [x] external deps e.g. react, react-dom, react .....
+- [ ] integrate spectrum web component
 - [x] integrate i18n
 - [x] integrate router
-- [ ] form validator
+- [x] integrate react helmet 
+- [x] form validator
+- [ ] integrate real workspace
 
 ## StyleGuide (css)
 
